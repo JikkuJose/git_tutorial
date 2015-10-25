@@ -9,3 +9,11 @@ Sl. No | Name
 1      | Jikku Jose
 2      | Ajay Jose
 3      | Nikhil Mohan
+
+## Conclusion
+
+We went through
+
+* `git add`
+* `git commit`
+* `git push`
